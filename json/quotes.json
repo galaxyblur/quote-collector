@@ -158,5 +158,25 @@
   "lifes-most-persiste-martin-luther-king-jr": {
     "text": "Life's most persistent and urgent question is, 'What are you doing for others?'",
     "author": "Martin Luther King, Jr."
+  },
+  "advice-is-like-snow-samuel-taylor-coleridge": {
+    "author": "Samuel Taylor Coleridge",
+    "text": "Advice is like snow - the softer it falls, the longer it dwells upon, and the deeper it sinks into the mind."
+  },
+  "every-failure-is-a-s-william-whewell": {
+    "author": "William Whewell",
+    "text": "Every failure is a step to success."
+  },
+  "the-actions-of-men-a-james-joyce": {
+    "author": "James Joyce",
+    "text": "The actions of men are the best interpreters of their thoughts."
+  },
+  "the-great-tragedy-of-thomas-huxley": {
+    "author": "Thomas Huxley",
+    "text": "The great tragedy of science - the slaying of a beautiful hypothesis by an ugly fact."
+  },
+  "you-can-be-shattered-glennon-doyle-melton": {
+    "author": "Glennon Doyle Melton",
+    "text": "You can be shattered, and then you can put yourself back together piece by piece. But what can happen over time is this: You wake up one day and realize that you have put yourself back together completely differently. That you are whole, finally, and strong - but you are now a different shape, a different size."
   }
 }
