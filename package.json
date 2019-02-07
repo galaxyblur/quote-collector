@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "collect": "node --experimental-modules collect.mjs"
+    "collect": "node --experimental-modules collect.mjs",
+    "count": "node --experimental-modules count.mjs"
   },
   "author": "",
   "license": "ISC",
