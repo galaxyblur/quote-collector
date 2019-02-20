@@ -730,5 +730,21 @@
   "i-am-an-artist-i-emile-zola": {
     "author": "Emile Zola",
     "text": "I am an artist... I am here to live out loud."
+  },
+  "nothing-is-more-sad-arthur-koestler": {
+    "author": "Arthur Koestler",
+    "text": "Nothing is more sad than the death of an illusion."
+  },
+  "perhaps-one-of-the-m-calvin-coolidge": {
+    "author": "Calvin Coolidge",
+    "text": "Perhaps one of the most important accomplishments of my administration has been minding my own business."
+  },
+  "the-wish-for-healing-lucius-annaeus-seneca": {
+    "author": "Lucius Annaeus Seneca",
+    "text": "The wish for healing has always been half of health."
+  },
+  "time-moves-in-one-di-william-gibson": {
+    "author": "William Gibson",
+    "text": "Time moves in one direction, memory in another."
   }
 }
