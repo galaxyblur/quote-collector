@@ -108,12 +108,13 @@ nm.goto('https://www.brainyquote.com/')
       $.getScript('https://cdn.jsdelivr.net/npm/lodash@4.17.11/lodash.min.js', function() {
         const allTxt = {};
 
-        document.querySelectorAll('#quotesList > div > div:first-child > div').forEach((el, i) => {
+        document.querySelectorAll('#quotesList > div > div > div:first-child > div').forEach((el, i) => {
           if (i >= LIMIT) {
             return;
           }
 
-          const [txt, author] = el.querySelectorAll(':scope > a');
+          const txt = el.querySelector(':scope > a');
+          const author = el.querySelector(':scope > div:last-child > a');
 
           if (txt && author && txt.innerText.trim() && author.innerText.trim()) {
             const key = _.kebabCase(`${txt.innerText.substring(0, 20)} ${author.innerText}`);
