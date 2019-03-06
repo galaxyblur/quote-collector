@@ -91,7 +91,7 @@ const nm = Nightmare({
   },
 });
 
-const LIMIT = 25;
+const LIMIT = 50;
 
 nm.goto('https://www.brainyquote.com/')
   .viewport(1500, 1024)
