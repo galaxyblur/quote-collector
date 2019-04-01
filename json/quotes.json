@@ -1238,5 +1238,29 @@
   "words-are-of-course-rudyard-kipling": {
     "author": "Rudyard Kipling",
     "text": "Words are, of course, the most powerful drug used by mankind."
+  },
+  "it-is-best-to-love-w-william-makepeace-thackeray": {
+    "author": "William Makepeace Thackeray",
+    "text": "It is best to love wisely, no doubt; but to love foolishly is better than not to be able to love at all."
+  },
+  "my-imagination-makes-ursula-k-le-guin": {
+    "author": "Ursula K. Le Guin",
+    "text": "My imagination makes me human and makes me a fool; it gives me all the world, and exiles me from it."
+  },
+  "o-wind-if-winter-c-percy-bysshe-shelley": {
+    "author": "Percy Bysshe Shelley",
+    "text": "O, wind, if winter comes, can spring be far behind?"
+  },
+  "the-first-of-april-i-mark-twain": {
+    "author": "Mark Twain",
+    "text": "The first of April is the day we remember what we are the other 364 days of the year."
+  },
+  "there-is-no-glory-in-william-cullen-bryant": {
+    "author": "William Cullen Bryant",
+    "text": "There is no glory in star or blossom till looked upon by a loving eye; There is no fragrance in April breezes till breathed with joy as they wander by."
+  },
+  "wise-men-speak-becau-plato": {
+    "author": "Plato",
+    "text": "Wise men speak because they have something to say; Fools because they have to say something."
   }
 }
