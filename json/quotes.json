@@ -1698,5 +1698,21 @@
   "think-in-the-morning-william-blake": {
     "author": "William Blake",
     "text": "Think in the morning. Act in the noon. Eat in the evening. Sleep in the night."
+  },
+  "i-hear-i-know-i-se-confucius": {
+    "author": "Confucius",
+    "text": "I hear, I know. I see, I remember. I do, I understand."
+  },
+  "i-imagine-that-yes-i-e-e-cummings": {
+    "author": "e. e. cummings",
+    "text": "I imagine that yes is the only living thing."
+  },
+  "morning-without-you-emily-dickinson": {
+    "author": "Emily Dickinson",
+    "text": "Morning without you is a dwindled dawn."
+  },
+  "you-can-cut-all-the-pablo-neruda": {
+    "author": "Pablo Neruda",
+    "text": "You can cut all the flowers but you cannot keep spring from coming."
   }
 }
