@@ -85,7 +85,7 @@ const writeReviewedQuotesToFile = (reviewedQuotesToWrite) => {
 };
 
 const nm = Nightmare({
-  show: true,
+  show: false,
   openDevTools: {
     mode: 'detach',
   },
